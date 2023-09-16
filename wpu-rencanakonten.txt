@@ -2,9 +2,10 @@ RENCANA KONTEN WPU
 - javascript
   * ES6
   * Framework js
-^angular
-^reach
+    ^vue
+    ^reach
 - data structur
 - live
 - golang
-^grpc
+   ^grpc
+- phyton
